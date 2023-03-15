@@ -1,3 +1,3 @@
 # TheTextEdit
 
-It is made by React JS.
+It was made by React JS.
